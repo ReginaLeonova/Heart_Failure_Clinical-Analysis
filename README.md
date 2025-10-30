@@ -4,6 +4,7 @@
 Investigate how demographic, laboratory, and clinical factors influence the survival outcomes of patients with heart failure.
 
 The analysis was conducted using the Heart_Failure_Clinical_Analysis dataset.
+
 🧠 Hypothesis
 Patients with impaired kidney function (high serum creatinine) and lower ejection fraction have a higher risk of death.
 
