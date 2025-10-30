@@ -12,6 +12,6 @@ Some results challenge common assumptions — for example, diabetes and anaemia,
 
 In summary, kidney function (serum creatinine), heart performance (ejection fraction), and patient age are the key drivers of survival outcomes. Regular follow-up and medical management appear to significantly enhance longevity and patient stability.
 
-Below is the dashboard summarising key metrics and visual insights from the analysis.
+Below is the dashboard (Tableau) summarising key metrics and visual insights from the analysis.
 
 <img width="1435" height="813" alt="Screenshot 2025-10-30 at 21 21 43" src="https://github.com/user-attachments/assets/083fc4d3-ba50-47d8-90fe-c927e431ce3e" />
